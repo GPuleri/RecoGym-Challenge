@@ -1,0 +1,1 @@
+Namespace(F=50, K=20, P=100, U=2000, Utest=2000, entries_dir='mf', log_epsilon=0.05, seed=42, sigma_omega=0.01)
